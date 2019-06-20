@@ -1,0 +1,29 @@
+
+body {
+    background-color: #B2D784;
+}
+
+.container {
+    background-color: white;;
+    color: #AE1AF7;
+    font-family: 'Bubblegum Sans', cursive;
+}
+
+#highlight {
+    background-color: #89cff0;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+p {
+    font-size: 25px;
+}
+
+img {
+    width: 160px;
+    height: 160px;
+}
